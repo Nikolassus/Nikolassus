@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..java and python.
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on .nasa..
-- 📫 How to reach me ...daaazvanoke 598109787
+- 📫 How to reach me ...daaazvanoke
 
 <!---
 Nikolassus/Nikolassus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
